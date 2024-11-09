@@ -1,5 +1,6 @@
 // Custom database lokal (contoh data untuk hero)
 const heroes = [
+    { name: 'Empty', img: '/Draft-Pick-MLBB/Assets/HeroPick/empty.png' },
     { name: 'Aamon', img: '/Draft-Pick-MLBB/Assets/HeroPick/aamon.png' },
     { name: 'Akai', img: '/Draft-Pick-MLBB/Assets/HeroPick/akai.png' },
     { name: 'Aldous', img: '/Draft-Pick-MLBB/Assets/HeroPick/aldous.png' },
