@@ -126,7 +126,8 @@ const heroes = [
     { name: 'Yve', img: '/Assets/HeroPick/yve.png' },
     { name: 'Zhask', img: '/Assets/HeroPick/zhask.png' },
     { name: 'Zhuxin', img: '/Assets/HeroPick/zhuxin.png' },
-    { name: 'Zilong', img: '/Assets/HeroPick/zilong.png' }
+    { name: 'Zilong', img: '/Assets/HeroPick/zilong.png' },
+    { name: 'Kalea', img: '/Assets/HeroPick/kalea.png' }
 ];
 
 
